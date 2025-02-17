@@ -5,11 +5,11 @@ I'm an aspiring software engineer passionate about building innovative web appli
 🚀 **Currently exploring:** AI integration in web apps
 
 🧰 **My toolkit:** 
-* Languages: C++, JavaScript, HTML/CSS
+* Languages: C++, JavaScript
 * Frameworks/Libraries: React, Node.js, Express.js
 * Databases: PostgreSQL
 
-🌱 **Learning:** Web Development from [The Odin Project](https://www.theodinproject.com/) | Data Structures and Algorithms (practicing on LeetCode and similar platforms!)
+🌱 **Learning:** Web Development from [The Odin Project](https://www.theodinproject.com/) | Data Structures and Algorithms (practicing on LeetCode & similar platforms!)
 
 🤝 **Looking to collaborate on:** Open to contributing to exciting projects! If you have something that aligns with my interests, let's connect.
 
