@@ -9,7 +9,7 @@ I'm an aspiring software engineer passionate about building innovative web appli
 * Frameworks/Libraries: React, Node.js, Express.js
 * Databases: PostgreSQL
 
-🌱 **Learning:** Web Development from [The Odin Project](https://www.theodinproject.com/) | Data Structures and Algorithms (practicing on LeetCode & similar platforms!)
+🌱 **Learning:** Web Development from [The Odin Project](https://www.theodinproject.com/) | Data Structures & Algorithms (practicing on LeetCode & similar platforms!)
 
 🤝 **Looking to collaborate on:** Open to contributing to exciting projects! If you have something that aligns with my interests, let's connect.
 
