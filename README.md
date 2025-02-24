@@ -5,7 +5,7 @@ I'm an aspiring software engineer passionate about building innovative web appli
 🚀 **Currently exploring:** AI integration in web apps
 
 🧰 **My toolkit:** 
-* Languages: C++, JavaScript
+* Languages: C++, JavaScript/TypeScript
 * Frameworks/Libraries: React, Node.js, Express.js
 * Databases: PostgreSQL
 
