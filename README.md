@@ -6,8 +6,8 @@ I'm an aspiring software engineer passionate about building innovative web appli
 
 🧰 **My toolkit:** 
 * Languages: C++, JavaScript/TypeScript
-* Frameworks/Libraries: React, Node.js, Express.js
-* Databases: PostgreSQL
+* Frameworks/Libraries: React, Redux Toolkit, Node.js, Express.js
+* Databases: PostgreSQL (Prisma ORM)
 
 🌱 **Learning:** Web Development from [The Odin Project](https://www.theodinproject.com/) | Data Structures & Algorithms (practicing on LeetCode & similar platforms!)
 
