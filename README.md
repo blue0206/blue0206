@@ -2,10 +2,10 @@
 
 I'm an aspiring software engineer passionate about building innovative web applications. I love the challenge of learning new technologies and crafting elegant solutions.
 
-🚀 **Currently exploring:** AI integration in web apps
+🚀 **Currently exploring:** Role-Based Access Control Patterns
 
 🧰 **My toolkit:** 
-* Languages: C++, JavaScript/TypeScript
+* Languages: C++, JavaScript, TypeScript, R
 * Frameworks/Libraries: React, Redux Toolkit, Node.js, Express.js
 * Databases: PostgreSQL (Prisma ORM)
 
