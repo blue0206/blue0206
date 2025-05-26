@@ -2,7 +2,7 @@
 
 I'm an aspiring software engineer passionate about building innovative web applications. I love the challenge of learning new technologies and crafting elegant solutions.
 
-🚀 **Currently exploring:** Role-Based Access Control Patterns
+🚀 **Currently exploring:** System Design 
 
 🧰 **My toolkit:** 
 * Languages: C++, JavaScript, TypeScript, R
