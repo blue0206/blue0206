@@ -9,7 +9,7 @@ I'm an aspiring software engineer passionate about building innovative web appli
 * Frameworks/Libraries: React, Redux Toolkit, Node.js, Express.js
 * Databases: PostgreSQL (Prisma ORM)
 
-🌱 **Learning:** Data Structures & Algorithms (practicing on LeetCode & similar platforms!)
+🌱 **Learning:** Data Structures & Algorithms
 
 🤝 **Looking to collaborate on:** Open to contributing to exciting projects! If you have something that aligns with my interests, let's connect.
 
