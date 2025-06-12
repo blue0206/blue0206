@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Aayush
 
-I'm an aspiring software engineer passionate about building innovative web applications. I love the challenge of learning new technologies and crafting elegant solutions.
+I'm an aspiring software engineer passionate about building innovative web applications. I love the challenge of learning new technologies and crafting solutions.
 
 🚀 **Currently exploring:** System Design 
 
