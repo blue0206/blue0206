@@ -13,7 +13,7 @@ I'm an aspiring software engineer passionate about building innovative web appli
 
 🤝 **Looking to collaborate on:** Open to contributing to exciting projects! If you have something that aligns with my interests, let's connect.
 
-📫 **Let's connect!** [Discord](https://discordapp.com/users/blue_0206) 
+📫 **Let's connect!** [Discord](https://discordapp.com/users/blue_0206) [Mail](blue0206.dev@gmail.com)
 <!--
 **blue0206/blue0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
