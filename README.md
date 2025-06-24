@@ -7,7 +7,7 @@ I'm an aspiring software engineer passionate about building innovative web appli
 🧰 **My toolkit:** 
 * Languages: C++, JavaScript, TypeScript, R
 * Frameworks/Libraries: React, Redux Toolkit, Node.js, Express.js
-* Databases: PostgreSQL (Prisma ORM)
+* Databases: PostgreSQL, Prisma ORM
 
 🌱 **Learning:** Data Structures & Algorithms
 
