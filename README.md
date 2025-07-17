@@ -1,30 +1,45 @@
-## 👋 Hey there, I'm Aayush
+# Hi there, I'm Aayush 👋
 
-I'm an aspiring software engineer passionate about building innovative web applications. I love the challenge of learning new technologies and crafting solutions.
+I'm an aspiring Software Engineer with a strong focus on building robust, scalable, and maintainable applications using modern backend and cloud technologies. I enjoy architecting systems from the ground up and tackling complex challenges in distributed environments.
 
-🚀 **Currently exploring:** System Design 
+---
 
-🧰 **My toolkit:** 
-* Languages: C++, JavaScript, TypeScript, R
-* Frameworks/Libraries: React, Redux Toolkit, Node.js, Express.js
-* Databases: PostgreSQL, Prisma ORM
+### 🚀 My Featured Project: Members-Only (A Distributed Clubhouse Clone)
 
-🌱 **Learning:** Data Structures & Algorithms
+I recently completed an end-to-end project, evolving a traditional monolith into a serverless microservice architecture on AWS.
 
-🤝 **Looking to collaborate on:** Open to contributing to exciting projects! If you have something that aligns with my interests, let's connect.
+| **Component** | **Live URL** | **GitHub Repository** |
+| :--- | :--- | :--- |
+| 💻 **Frontend (React)** | **[cloud.nevery.shop](https://cloud.nevery.shop)** | [Repository](https://github.com/blue0206/members-only-frontend) |
+| ⚙️ **Backend (Serverless)** | `api-v2.nevery.shop` | [Microservice Repository](https://github.com/blue0206/members-only-backend) |
+| 📦 **Shared Types (npm)** | [@blue0206/members-only-shared-types](https://www.npmjs.com/package/@blue0206/members-only-shared-types) | [Repository](https://github.com/blue0206/members-only-shared-types) |
+| 🐳 **Monolith Version** | `api.nevery.shop` | [Monolith Repository](https://github.com/blue0206/members-only-backend/tree/monolith-deployment) |
 
-📫 **Let's connect!** [Mail](blue0206.dev@gmail.com) | [Discord](https://discordapp.com/users/blue_0206)
-<!--
-**blue0206/blue0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project demonstrates my skills in backend architecture, cloud infrastructure, real-time communication, and secure API design. **Check out the [backend repository's README](https://github.com/blue0206/members-only-backend?tab=readme-ov-file#members-only---serverless-backend) for a full architectural diagram and technical deep-dive!**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Tech Stack
+
+My primary focus is on the TypeScript ecosystem and cloud-native development.
+
+-   **Backend:** Node.js, Express.js, TypeScript, REST APIs, Server-Sent Events
+-   **Database:** PostgreSQL, Redis, Prisma ORM
+-   **Cloud & DevOps:**
+    -   **AWS:** Lambda, API Gateway, EC2, SQS, EventBridge, IAM, VPC, RDS, ElastiCache, CloudWatch
+    -   **Infrastructure as Code (IaC):** AWS CDK
+    -   **Containerization:** Docker
+    -   **CI/CD:** GitHub Actions
+-   **Frontend:** React, Redux Toolkit (RTK Query), Vite, Tailwind CSS
+-   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Git, Vitest
+-   **Languages:** TypeScript, JavaScript, C++, R
+
+---
+
+### 📫 How to Reach Me
+
+-   [LinkedIn](www.linkedin.com/in/aayush-rai-61a3ab260)
+-   [Email](blue0206.dev@gmail.com)
+-   [Discord](https://discordapp.com/users/blue_0206)
+
+---
