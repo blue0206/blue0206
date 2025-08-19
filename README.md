@@ -4,7 +4,7 @@ I'm an aspiring Software Engineer with a strong focus on building robust, scalab
 
 ---
 
-### 🚀 My Featured Project: Members-Only (A Distributed Clubhouse Clone)
+### 🚀 My Featured Project: Members-Only (A Distributed Real-Time Community Message Board)
 
 I recently completed an end-to-end project, evolving a traditional monolith into a serverless microservice architecture on AWS.
 
