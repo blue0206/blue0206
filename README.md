@@ -21,8 +21,6 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
 
 ### 🛠️ My Tech Stack
 
-My primary focus is on the TypeScript ecosystem and cloud-native development.
-
 -   **Backend:** Node.js, Express.js, TypeScript, REST APIs, Server-Sent Events
 -   **Database:** PostgreSQL, Redis, Prisma ORM
 -   **Cloud & DevOps:**
@@ -32,14 +30,14 @@ My primary focus is on the TypeScript ecosystem and cloud-native development.
     -   **CI/CD:** GitHub Actions
 -   **Frontend:** React, Redux Toolkit (RTK Query), Vite, Tailwind CSS
 -   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Git, Vitest
--   **Languages:** TypeScript, JavaScript, C++, R
+-   **Languages:** TypeScript, JavaScript, C++, Python, R
 
 ---
 
 ### 📫 How to Reach Me
 
 -   [LinkedIn](www.linkedin.com/in/aayush-rai-61a3ab260)
--   [Email](blue0206.dev@gmail.com)
+-   [Email](aayushrai10601@gmail.com)
 -   [Discord](https://discordapp.com/users/blue_0206)
 
 ---
