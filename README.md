@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush 👋
 
-I'm an aspiring Software Engineer with a strong focus on building robust, scalable, and maintainable applications using modern backend and cloud technologies. I enjoy architecting systems from the ground up and tackling complex challenges in distributed environments.
+I'm a Software Engineer with a strong focus on building robust, scalable, and maintainable applications using modern backend and cloud technologies. I enjoy architecting systems from the ground up and tackling complex challenges in distributed environments.
 
 ---
 
