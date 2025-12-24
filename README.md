@@ -27,9 +27,9 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
     -   **AWS:** Lambda, API Gateway, EC2, SQS, EventBridge, IAM, VPC, RDS, ElastiCache, CloudWatch
     -   **Infrastructure as Code (IaC):** AWS CDK
     -   **Containerization:** Docker
-    -   **CI/CD:** GitHub Actions
+    -   **Version Control:** Git, GitHub
 -   **Frontend:** React, Redux Toolkit (RTK Query), Vite, Tailwind CSS
--   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Git, Vitest
+-   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Vitest
 -   **Languages:** TypeScript, JavaScript, C++, Python, R
 
 ---
