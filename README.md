@@ -4,7 +4,7 @@ I'm a Software Engineer with a strong focus on building robust, scalable, and ma
 
 ---
 
-### 🚀 My Featured Project: Members-Only (A Distributed Real-Time Community Message Board)
+### 🚀 My Featured Project: Members-Only (A Distributed Real-Time Message Board)
 
 I recently completed an end-to-end project, evolving a traditional monolith into a serverless microservice architecture on AWS.
 
