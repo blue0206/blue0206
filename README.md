@@ -22,16 +22,17 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
 
 ### 🛠️ My Tech Stack
 
--   **Backend:** Node.js, Express.js, TypeScript, REST APIs, Server-Sent Events
--   **Database:** PostgreSQL, Redis, Prisma ORM
+-   **Backend:** Node.js, Express.js, FastAPI, TypeScript, REST APIs, Server-Sent Events
+-   **Database:** PostgreSQL, Redis, Prisma ORM, MongoDB
 -   **Cloud & DevOps:**
     -   **AWS:** Lambda, API Gateway, EC2, SQS, EventBridge, IAM, VPC, RDS, ElastiCache, CloudWatch
     -   **Infrastructure as Code (IaC):** AWS CDK
     -   **Containerization:** Docker
     -   **Version Control:** Git, GitHub
+-   **Generative AI:** LLMs, AI Agents, LangChain, LangGraph, RAG pipelines, Neo4j, Qdrant, MCP, Ollama, mem0
 -   **Frontend:** React, Redux Toolkit (RTK Query), Vite, Tailwind CSS
--   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Vitest
--   **Languages:** TypeScript, JavaScript, C++, Python, R
+-   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Vitest, Zod, Pydantic
+-   **Languages:** TypeScript, JavaScript, C++, Python, SQL, R
 
 ---
 
