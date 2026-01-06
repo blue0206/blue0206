@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush 👋
 
-I'm a Software Engineer with a strong focus on building robust, scalable, and maintainable applications using modern backend and cloud technologies.
+I'm a Software Engineer with a strong focus on building robust, scalable, and maintainable applications using modern backend, cloud, and GenAI technologies.
 
 ---
 
