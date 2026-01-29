@@ -22,7 +22,7 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
 
 ### 🛠️ My Tech Stack
 
--   **Backend:** Node.js, Express.js, FastAPI, TypeScript, REST APIs, Server-Sent Events
+-   **Backend:** Node.js, Express.js, FastAPI, TypeScript, REST APIs, Server-Sent Events, WebSockets
 -   **Database:** PostgreSQL, Redis, Prisma ORM, MongoDB
 -   **Cloud & DevOps:**
     -   **AWS:** Lambda, API Gateway, EC2, SQS, EventBridge, IAM, VPC, RDS, ElastiCache, CloudWatch
