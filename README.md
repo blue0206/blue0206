@@ -42,4 +42,5 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
 -   [Email](aayushrai10601@gmail.com)
 -   [Discord](https://discordapp.com/users/blue_0206)
 
----
+![](https://komarev.com/ghpvc/?username=blue0206&style=pixel)
+
