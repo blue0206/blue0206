@@ -31,7 +31,7 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
     -   **Version Control:** Git, GitHub
 -   **Generative AI:** LLMs, AI Agents, LangChain, LangGraph, RAG pipelines, Neo4j, Qdrant, MCP, Ollama, mem0
 -   **Frontend:** React, Redux Toolkit (RTK Query), Vite, Tailwind CSS
--   **Tooling:** `pnpm` monorepos, `pm2`, Nginx, Vitest, Zod, Pydantic
+-   **Tooling:** `pnpm` monorepos, `pm2`, uv, Nginx, Vitest, Zod, Pydantic
 -   **Languages:** TypeScript, JavaScript, C++, Python, SQL, R
 
 ---
