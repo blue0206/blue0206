@@ -38,8 +38,8 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
 
 ### 📫 How to Reach Me
 
--   [LinkedIn](www.linkedin.com/in/aayush-rai-61a3ab260)
--   [Email](aayushrai10601@gmail.com)
+-   [LinkedIn](https://www.linkedin.com/in/aayush-rai-61a3ab260)
+-   [Email](mailto:aayushrai10601@gmail.com)
 -   [Discord](https://discordapp.com/users/blue_0206)
 
 ![](https://komarev.com/ghpvc/?username=blue0206&style=pixel)
