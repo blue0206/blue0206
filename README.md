@@ -29,8 +29,8 @@ This project demonstrates my skills in backend architecture, cloud infrastructur
     -   **Infrastructure as Code (IaC):** AWS CDK, Terraform
     -   **Containerization:** Docker
     -   **Version Control:** Git, GitHub
--   **Generative AI:** AWS Bedrock, LLMs, AI Agents, LangChain, LangGraph, RAG pipelines, Neo4j, Qdrant, MCP, Ollama, mem0
--   **Frontend:** React, Redux Toolkit (RTK Query), Vite, Tailwind CSS
+-   **Generative AI:** AWS Bedrock, LLMs, AI Agents, LangChain, LangGraph, LangFuse, RAG, Qdrant, MCP, Ollama, mem0, DeepEval
+-   **Frontend:** React, Redux Toolkit, RTK Query, Vite, Tailwind CSS
 -   **Tooling:** `pnpm` monorepos, `pm2`, uv, Nginx, Vitest, Zod, Pydantic
 -   **Languages:** TypeScript, JavaScript, C++, Python, SQL, R
 
