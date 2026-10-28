@@ -4,22 +4,6 @@ I'm a Software Engineer with a strong focus on building robust, scalable, and ma
 
 ---
 
-### 🚀 My Featured Project: Members-Only (A Distributed Real-Time Message Board)
-
-I recently completed an end-to-end project, evolving a traditional monolith into a serverless microservice architecture on AWS.
-
-| **Component** | **Live URL** | **GitHub Repository** |
-| :--- | :--- | :--- |
-| 💻 **Frontend (Main)** | **[cloud.nevery.shop](https://cloud.nevery.shop)** | [Repository](https://github.com/blue0206/members-only-frontend) |
-| ⚙️ **Backend (Microservices)** | `api-v2.nevery.shop` | [Microservice Repository](https://github.com/blue0206/members-only-backend) |
-| 📦 **Shared Types (npm)** | [@blue0206/members-only-shared-types](https://www.npmjs.com/package/@blue0206/members-only-shared-types) | [Repository](https://github.com/blue0206/members-only-shared-types) |
-| 💻 **Frontend (Monolith)** | **[app.nevery.shop](https://app.nevery.shop)** | [Repository](https://github.com/blue0206/members-only-frontend/tree/monolith-deployment) |
-| 🐳 **Backend (Monolith)** | `api.nevery.shop` | [Monolith Repository](https://github.com/blue0206/members-only-backend/tree/monolith-deployment) |
-
-This project demonstrates my skills in backend architecture, cloud infrastructure, real-time communication, and secure API design. **Check out the [backend repository's README](https://github.com/blue0206/members-only-backend?tab=readme-ov-file#members-only---serverless-backend) for a full architectural diagram and technical deep-dive!**
-
----
-
 ### 🛠️ My Tech Stack
 
 -   **Backend:** Node.js, Express.js, FastAPI, TypeScript, REST APIs, Server-Sent Events, WebSockets
